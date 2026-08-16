@@ -92,9 +92,7 @@ That gives scientists controlled exploration, built-in opposition, and a reprodu
 
 **Closing the loop.**
 
-The system can request a graph expansion, link resolution, or gap test. The recruitment station can find the smallest biomarker relaxation that rescues enrollment or prove that none works.
-
-New evidence triggers another parallel evaluation round.
+LABrador generates and evaluates hypotheses across evidence, tractability, recruitability, and ROI. Scientists test the strongest candidate and feed the result back into LABrador. That result changes the knowledge graph and downstream evaluations, producing a revised hypothesis and next experiment.
 
 **Inspectability.**
 

@@ -34,7 +34,9 @@
 
 ## Winning conditions
 
-- **Close loop:** weakness → evidence request or trial change
+LABrador generates and evaluates hypotheses across evidence, tractability, recruitability, and ROI. Scientists test the strongest candidate and feed the result back into LABrador. That result changes the knowledge graph and downstream evaluations, producing a revised hypothesis and next experiment.
+
+- **Close loop:** literature+data → hypothesis → scientists test → next prompt into LABrador (closes experimental loop).
 - **Inspectable:** quote → graph → hypothesis → evaluation → manifest
 - **Validated:** trial backtests + 2018 dupilumab hindcast
 - **Sponsors:** Paperclip and Proto are load-bearing
